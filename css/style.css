@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+
+
+body {
+    margin: 0px;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+
+h6 {
+    color: #653be0;
+}
+
+
+main {
+    padding: 10px;
+    border: 15px solid #a00606;
+    background-color: white;
+    height: 350px;
+    overflow: auto;
+    margin: 5%;
+}
+
+
+
+
+.googleMap {
+    width: 120%;
+    height: 600px;
+}
+
+
+.tenki {
+    width: 100%;  
+}
+
+video {
+    padding: 10px;
+    border: 15px solid #a00606;
+    background-color: white;
+    height: 350px;
+    overflow: auto;
+    margin: 5%;
+}
